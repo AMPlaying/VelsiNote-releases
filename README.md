@@ -1,7 +1,7 @@
 # VelsiNote — desktop app
 
 Downloads for the VelsiNote desktop app. The app itself lives at
-**[amplaying.me](https://amplaying.me)**; this repository only hosts the
+**[notes.amplaying.me](https://notes.amplaying.me)**; this repository only hosts the
 installers.
 
 ## Download
@@ -9,7 +9,7 @@ installers.
 **Windows:** [VelsiNote-Setup.exe](https://github.com/AMPlaying/VelsiNote-releases/releases/latest/download/VelsiNote-Setup.exe)
 
 macOS and Linux builds are coming. Until then, open
-[amplaying.me](https://amplaying.me) in Chrome or Edge and choose
+[notes.amplaying.me](https://notes.amplaying.me) in Chrome or Edge and choose
 **Install app** from the address bar.
 
 ## Updates
